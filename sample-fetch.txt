@@ -1,0 +1,3 @@
+git status: Shows the status of files in the working directory and staging area, indicating which files are untracked, modified, or staged.
+git add [file]: Stages a specific file for the next commit.
+git add .: Stages all new and modified files in the current directory for the next commit
