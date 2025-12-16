@@ -1,0 +1,2 @@
+git init: Creates a new local Git repository in the current directory.
+git clone [url]: Duplicates a repository from a remote location to your local machine
